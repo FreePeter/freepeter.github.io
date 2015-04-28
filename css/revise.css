@@ -1,0 +1,27 @@
+body {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+#make-narrow {
+	width: 760px;
+	text-align: left;
+	margin: 0 auto;
+}
+
+a, a > tt {
+	color: #284070;
+}
+
+h1, h2, h3, #layout-menu a.current:link, #layout-menu a.current:visited {
+	color: #203060;
+}
+
+h1, h2, h3 {
+	border-bottom: 1px solid #c0c0c0;
+}
+
+li {
+	padding: 6px;
+}

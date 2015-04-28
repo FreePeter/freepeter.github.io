@@ -1,0 +1,68 @@
+td {
+	color: #000000;
+	font: 14px/21px "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+}
+
+body {
+	color: #000000;
+	font: 14px/21px "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+}
+
+a {
+	color: #000000;
+	font: 14px/21px "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+}
+
+a:active {
+	color: #333399;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #333399;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:link {
+	color: #333399;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+h2{
+	font-size : 16pt;
+	padding : lex 0ex 1ex 0ex;
+}
+
+h3{
+	background-color: #E8EEFA;
+	font-size : 11pt;
+	border-bottom: medium #808000 solid;
+	padding : 1ex 0ex 1ex 0ex;
+}
+
+.section{
+	padding : 1ex 0ex 0ex 0ex; 
+}
+
+.pub{
+	padding: 0ex 0ex 3ex 0ex;
+}
+
+.content{
+	background-color: #F4F4F4;
+	width: 800px;
+	margin : auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	text-align: left;
+	padding : 2ex 2ex 2ex 2ex;
+	border : double #FFFFFF;
+}
+
+.centercontent{
+	text-align:center;
+	background-color: #E8EEFA;
+}
