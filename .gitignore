@@ -1,0 +1,8 @@
+# Editor temporaries
+*.swn
+*.swo
+*.swp
+*.swm
+*~
+.vscode
+.idea
